@@ -20,7 +20,7 @@ A sleek, animated motion intro built for car enthusiasts who love **Alfa Romeo**
 
 1. Clone or download this repository.
 2. Add your own background images in the `assets/` folder.
-3. Replace or keep the `engine.mp3` file.
+3. Replace or keep the `alphavid.mp4` file.
 4. Open `index.html` in your browser.
 5. 🎥 Want to turn it into a video?
    - Use OBS Studio to screen record in fullscreen mode.
@@ -30,7 +30,7 @@ A sleek, animated motion intro built for car enthusiasts who love **Alfa Romeo**
 
 ## 🔧 Customization
 
-- Change `"I ❤️ Alfa Romeo"` to any text you like.
+- Change `"Alfa Romeo"` to any text you like.
 - Swap background images in `style.css` (`@keyframes slideshow`)
 - Adjust audio volume or animation timing in `script.js` or `style.css`
 
