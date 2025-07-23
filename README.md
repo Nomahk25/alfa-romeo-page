@@ -75,5 +75,5 @@ This project is open-source and free to use for personal or event-based projects
 
 ## 👨‍🔧 Created By
 
-**Nomanguni Khumalo & Nombulelo Khumalo [https://github.com/Nombulelo-Khumalo] – AI & Robotics Enthusiasts from Johannesburg 🇿🇦  
+[Nomanguni Khumalo](https://github.com/nomahk25)  &  [Nombulelo Khumalo](https://github.com/Nombulelo-Khumalo) – AI & Robotics Enthusiasts from Johannesburg 🇿🇦  
  🤝 Built with passion for the Alfa Romeo community.  
