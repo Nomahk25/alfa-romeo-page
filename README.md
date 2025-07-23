@@ -3,6 +3,7 @@
 A sleek, animated motion intro built for car enthusiasts who love **Alfa Romeo**. This project displays a beautiful looping background of Alfa Romeo cars, animated text, and realistic engine sounds — perfect for events, fan pages, or turning into a video intro!
 
 ![Screenshot](./alfa_romeo.png)
+![Video](./alfa_romeo.mp4)
 
 ---
 
