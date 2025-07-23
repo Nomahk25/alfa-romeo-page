@@ -21,8 +21,19 @@ A sleek, animated motion intro built for car enthusiasts who love **Alfa Romeo**
 1. Clone or download this repository.
 2. Add your own background images in the `assets/` folder.
 3. Replace or keep the `alphavid.mp4` file.
-4. Open `index.html` in your browser.
-5. 🎥 Want to turn it into a video?
+4. Run
+```
+npm install
+npm run dev
+```
+
+Then click on the link
+
+```
+http://localhost:5173
+```
+
+6. 🎥 Want to turn it into a video?
    - Use OBS Studio to screen record in fullscreen mode.
    - Or export with ffmpeg and Puppeteer (optional).
 
